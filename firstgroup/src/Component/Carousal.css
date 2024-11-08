@@ -1,0 +1,17 @@
+.slidertext{
+    left: 23%;
+    top: 35%;
+    
+}
+.slidertext h1{
+    font-size: 7.5rem;
+    color: wheat;
+}
+.carousel-inner .carousel-item{
+    height: 500px;
+}
+.sliderbtn button{
+    border: dashed;
+    border-color: rgb(139, 139, 6);
+    color: white;
+}
